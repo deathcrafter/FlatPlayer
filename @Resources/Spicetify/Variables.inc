@@ -1,0 +1,14 @@
+[Variables]
+;Theme
+NumberofThemes=1
+ActiveTheme=SpicetifyDefault
+MOInvMeas=0
+;ColorScheme
+NumberofColorSchemes=7
+ActiveColorScheme=base
+MCInvMeas=0
+;Scroll
+s_ScrollSpeed=30
+s_ScrollTreshold=([ThemesBox:Y]+35*[#Scale]+150*[#Scale])
+s_ScrollThemePanel=2
+s_ScrollCSchemePanel=0
